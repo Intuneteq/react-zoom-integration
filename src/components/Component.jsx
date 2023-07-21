@@ -35,7 +35,7 @@ const Component = () => {
 
     client.join({
       signature: signature,
-      sdkKey: "p9lrTwu_QLfV3WnWtCoRQ",
+      sdkKey: process.env.REACT_APP_SDK,
       meetingNumber: lessonId.slice(0, 8),
       password: "",
       userName: "Tobi Olanitori",
