@@ -1,4 +1,3 @@
-
 # Zoom Web SDK Integration into React
 
 This repository contains a React application that demonstrates how to integrate the Zoom Web SDK into a React project. The application allows users to join a Zoom meeting from the client view or the component view.
@@ -10,17 +9,14 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and install dependencies using npm:
 
-```bash
-npm install
-```
+```npm install```
 
 ## Usage
 
 To start the application, use the following command:
 
-```bash
-npm start
-```
+```npm start```
+
 
 The application will be accessible at `http://localhost:3000`.
 
