@@ -1,6 +1,4 @@
-Sure, here's the README written using GitHub markdown syntax:
 
-```
 # Zoom Web SDK Integration into React
 
 This repository contains a React application that demonstrates how to integrate the Zoom Web SDK into a React project. The application allows users to join a Zoom meeting from the client view or the component view.
